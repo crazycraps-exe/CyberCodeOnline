@@ -789,7 +789,7 @@
  	 	 	"eng": "${segmentDisplayName} Secret Key"
  	 	},
  	 	"unlockVerb": {
- 	 	 	"trans": "brute-force",
+ 	 	 	"trans": "force brute",
  	 	 	"eng": "brute-force"
  	 	}
  	},
@@ -811,7 +811,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]",
+ 	 	 	 	"trans": "Obtenez 3 différents Fragments de clés de chaque donjon situé à ${segmentDisplayName},\r\n                ils sont utilisés pour créer la clé de la prochaine zone.\r\n                Pour fabriquer la clé, allez au terminal au [HUB]",
  	 	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]"
  	 	 	}
  	 	},
@@ -835,11 +835,11 @@
  	 	 	 	}
  	 	 	},
  	 	 	"dealDamage": {
- 	 	 	 	"trans": "Deal Damage",
+ 	 	 	 	"trans": "Infliger des dégâts",
  	 	 	 	"eng": "Deal Damage"
  	 	 	},
  	 	 	"exp": {
- 	 	 	 	"trans": "Gain exp",
+ 	 	 	 	"trans": "Gagner de l'exp",
  	 	 	 	"eng": "Gain exp"
  	 	 	},
  	 	 	"joinDungeon": {
@@ -847,15 +847,15 @@
  	 	 	 	"eng": "Join Dungeon"
  	 	 	},
  	 	 	"killEnemy": {
- 	 	 	 	"trans": "Kill enemy",
+ 	 	 	 	"trans": "Tuer des ennemis",
  	 	 	 	"eng": "Kill enemy"
  	 	 	},
  	 	 	"getMoney": {
- 	 	 	 	"trans": "Acquire Bitcoin",
+ 	 	 	 	"trans": "Obtenir des Bitcoins",
  	 	 	 	"eng": "Acquire Bitcoin"
  	 	 	},
  	 	 	"print": {
- 	 	 	 	"trans": "Molecular Printing",
+ 	 	 	 	"trans": "Impression moléculaire",
  	 	 	 	"eng": "Molecular Printing"
  	 	 	}
  	 	}
@@ -869,25 +869,25 @@
  	 	},
  	 	"mobileQuestPage": {
  	 	 	"receiveReward": {
- 	 	 	 	"trans": "Click to receive reward",
+ 	 	 	 	"trans": "Cliquez pour recevoir la récompense"
  	 	 	 	"eng": "Click to receive reward"
  	 	 	},
  	 	 	"inProgress": {
- 	 	 	 	"trans": "Request in progress...",
+ 	 	 	 	"trans": "Requête en cour...",
  	 	 	 	"eng": "Request in progress..."
  	 	 	},
  	 	 	"watchAdRefresh": {
- 	 	 	 	"trans": "Watch an AD to refresh quest",
+ 	 	 	 	"trans": "Retardez une publicité pour rafraîchir les quêtes",
  	 	 	 	"eng": "Watch an AD to refresh quest"
  	 	 	}
  	 	},
  	 	"map": {
  	 	 	"interactable": {
- 	 	 	 	"trans": "Interactable",
+ 	 	 	 	"trans": "interactif",
  	 	 	 	"eng": "Interactable"
  	 	 	},
  	 	 	"travel": {
- 	 	 	 	"trans": "Travel",
+ 	 	 	 	"trans": "Voyage",
  	 	 	 	"eng": "Travel"
  	 	 	}
  	 	},
@@ -897,7 +897,7 @@
  	 	 	 	"eng": "Alias"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "title",
+ 	 	 	 	"trans": "titre",
  	 	 	 	"eng": "title"
  	 	 	},
  	 	 	"gearScore": {
@@ -921,46 +921,46 @@
  	 	 	 	"eng": "Status"
  	 	 	},
  	 	 	"numOfMember": {
- 	 	 	 	"trans": "Number of members",
+ 	 	 	 	"trans": "Nombre de membres",
  	 	 	 	"eng": "Number of members"
  	 	 	},
  	 	 	"gangAction": {
  	 	 	 	"label": {
- 	 	 	 	 	"trans": "Gang Actions",
+ 	 	 	 	 	"trans": "Actions du gang",
  	 	 	 	 	"eng": "Gang Actions"
  	 	 	 	},
  	 	 	 	"kick": {
- 	 	 	 	 	"trans": "Kick",
+ 	 	 	 	 	"trans": "Expulser",
  	 	 	 	 	"eng": "Kick"
  	 	 	 	},
  	 	 	 	"transferLeadership": {
- 	 	 	 	 	"trans": "Transfer Leadership",
+ 	 	 	 	 	"trans": "Transférer le rôle de chef",
  	 	 	 	 	"eng": "Transfer Leadership"
  	 	 	 	}
  	 	 	},
  	 	 	"playerActions": {
  	 	 	 	"label": {
- 	 	 	 	 	"trans": "Player Actions",
+ 	 	 	 	 	"trans": "Actions du joueur",
  	 	 	 	 	"eng": "Player Actions"
  	 	 	 	},
  	 	 	 	"sendPrivateMsg": {
- 	 	 	 	 	"trans": "Send private message",
+ 	 	 	 	 	"trans": "Envoyer un message privé",
  	 	 	 	 	"eng": "Send private message"
  	 	 	 	},
  	 	 	 	"sendGift": {
- 	 	 	 	 	"trans": "Send Gift",
+ 	 	 	 	 	"trans": "Envoyer un cadeau",
  	 	 	 	 	"eng": "Send Gift"
  	 	 	 	},
  	 	 	 	"inviteToGang": {
- 	 	 	 	 	"trans": "Invite to Gang",
+ 	 	 	 	 	"trans": "Inviter dans le gang",
  	 	 	 	 	"eng": "Invite to Gang"
  	 	 	 	},
  	 	 	 	"addToFriend": {
- 	 	 	 	 	"trans": "add to Friend List",
+ 	 	 	 	 	"trans": "Ajouter à la liste d'amis",
  	 	 	 	 	"eng": "add to Friend List"
  	 	 	 	},
  	 	 	 	"removeFromFriend": {
- 	 	 	 	 	"trans": "Remove from Friend List",
+ 	 	 	 	 	"trans": "Retirer de la liste d'amis",
  	 	 	 	 	"eng": "Remove from Friend List"
  	 	 	 	},
  	 	 	 	"giveStreetCred": {
@@ -971,18 +971,18 @@
  	 	},
  	 	"market": {
  	 	 	"lookAround": {
- 	 	 	 	"trans": "Look around",
+ 	 	 	 	"trans": "Regarder aux alentours",
  	 	 	 	"eng": "Look around"
  	 	 	},
  	 	 	"myStall": {
- 	 	 	 	"trans": "My Stall",
+ 	 	 	 	"trans": "Mes ventes",
  	 	 	 	"eng": "My Stall"
  	 	 	},
  	 	 	"increaseSlot": {
  	 	 	 	"vars": [
  	 	 	 	 	"nextSlotSize"
  	 	 	 	],
- 	 	 	 	"trans": "Increase slot to ${nextSlotSize}",
+ 	 	 	 	"trans": "Augmenter l'espace à ${nextSlotSize}",
  	 	 	 	"eng": "Increase slot to ${nextSlotSize}"
  	 	 	}
  	 	},
@@ -1006,62 +1006,62 @@
  	 	},
  	 	"profile": {
  	 	 	"profile": {
- 	 	 	 	"trans": "Profile",
+ 	 	 	 	"trans": "Profil",
  	 	 	 	"eng": "Profile"
  	 	 	},
  	 	 	"update": {
- 	 	 	 	"trans": "Updates",
+ 	 	 	 	"trans": "Mises à jours",
  	 	 	 	"eng": "Updates"
  	 	 	},
  	 	 	"tutorial": {
- 	 	 	 	"trans": "tutorial",
+ 	 	 	 	"trans": "tutoriel",
  	 	 	 	"eng": "tutorial"
  	 	 	},
  	 	 	"credits": {
- 	 	 	 	"trans": "credits",
+ 	 	 	 	"trans": "crédits",
  	 	 	 	"eng": "credits"
  	 	 	}
  	 	},
  	 	"tutorial": {
  	 	 	"title": {
- 	 	 	 	"trans": "Tutorial",
+ 	 	 	 	"trans": "Tutoriel",
  	 	 	 	"eng": "Tutorial"
  	 	 	}
  	 	},
  	 	"setting": {
  	 	 	"language": {
- 	 	 	 	"trans": "Language",
+ 	 	 	 	"trans": "Langue",
  	 	 	 	"eng": "Language"
  	 	 	},
  	 	 	"langWarning": {
- 	 	 	 	"trans": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page",
+ 	 	 	 	"trans": "Cette langue est source ouverte et aidée pas nos joueurs, le texte peut ne pas être complètement traduit et peut contenirdes fautes. SVP sentez-vous libre de modifier et de contribuer de notre page Github",
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"playBackgroundMusic": {
- 	 	 	 	"trans": "Mute background music",
+ 	 	 	 	"trans": "Couper la musique de fond",
  	 	 	 	"eng": "Mute background music"
  	 	 	},
  	 	 	"restartRequired": {
- 	 	 	 	"trans": "App will self restart after save",
+ 	 	 	 	"trans": "Le jeu va redémarrer après la sauvegarde",
  	 	 	 	"eng": "App will self restart after save"
  	 	 	},
  	 	 	"save": {
- 	 	 	 	"trans": "save",
+ 	 	 	 	"trans": "sauvegarder",
  	 	 	 	"eng": "save"
  	 	 	},
  	 	 	"langGithub": {
- 	 	 	 	"trans": "Help with translating the game",
+ 	 	 	 	"trans": "Aider en traduisant le jeu",
  	 	 	 	"eng": "Help with translating the game"
  	 	 	}
  	 	}
  	},
  	"misc": {
  	 	"missing": {
- 	 	 	"trans": "missing",
+ 	 	 	"trans": "manquant",
  	 	 	"eng": "missing"
  	 	},
  	 	"name": {
- 	 	 	"trans": "Name",
+ 	 	 	"trans": "Nom",
  	 	 	"eng": "Name"
  	 	},
  	 	"tag": {
@@ -1069,138 +1069,138 @@
  	 	 	"eng": "Tag"
  	 	},
  	 	"donate": {
- 	 	 	"trans": "Donate",
+ 	 	 	"trans": "Donner",
  	 	 	"eng": "Donate"
  	 	},
  	 	"noSecretKey": {
- 	 	 	"trans": " No secret key",
+ 	 	 	"trans": " Aucune clé secrète",
  	 	 	"eng": " No secret key"
  	 	}
  	},
  	"statsType": {
  	 	"health": {
  	 	 	"name": {
- 	 	 	 	"trans": "Health",
+ 	 	 	 	"trans": "PV",
  	 	 	 	"eng": "Health"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increases maximum health",
+ 	 	 	 	"trans": "Augmente les PVs maximums",
  	 	 	 	"eng": "Increases maximum health"
  	 	 	}
  	 	},
  	 	"armor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Armor",
+ 	 	 	 	"trans": "Armure",
  	 	 	 	"eng": "Armor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Decrease damage taken from enemy",
+ 	 	 	 	"trans": "Réduit les dégâts reçus des ennemis",
  	 	 	 	"eng": "Decrease damage taken from enemy"
  	 	 	}
  	 	},
  	 	"healthRegen": {
  	 	 	"name": {
- 	 	 	 	"trans": "Health regen",
+ 	 	 	 	"trans": "Régénération de PV",
  	 	 	 	"eng": "Health regen"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Amount of health regenerated after end of combat",
+ 	 	 	 	"trans": "Taux de PVs régénérés à la fin du combat",
  	 	 	 	"eng": "Amount of health regenerated after end of combat"
  	 	 	}
  	 	},
  	 	"damage": {
  	 	 	"name": {
- 	 	 	 	"trans": "Damage",
+ 	 	 	 	"trans": "Dégâts",
  	 	 	 	"eng": "Damage"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Directly influences amount of damage dealt by you",
+ 	 	 	 	"trans": "Influence directement de le taux de dégâts que vous infligez",
  	 	 	 	"eng": "Directly influences amount of damage dealt by you"
  	 	 	}
  	 	},
  	 	"critChance": {
  	 	 	"name": {
- 	 	 	 	"trans": "Crit chance",
+ 	 	 	 	"trans": "Chances de coup critique",
  	 	 	 	"eng": "Crit chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Chance of you executing a critical attack",
+ 	 	 	 	"trans": "Cjance d'infliger une attaque critique",
  	 	 	 	"eng": "Chance of you executing a critical attack"
  	 	 	}
  	 	},
  	 	"critDamage": {
  	 	 	"name": {
- 	 	 	 	"trans": "Crit damage",
+ 	 	 	 	"trans": "Dégâts critique",
  	 	 	 	"eng": "Crit damage"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Influence the critical attack damage you deal to the enemy",
+ 	 	 	 	"trans": "Influence les dégâts critique infligés aux ennemis",
  	 	 	 	"eng": "Influence the critical attack damage you deal to the enemy"
  	 	 	}
  	 	},
  	 	"maxShield": {
  	 	 	"name": {
- 	 	 	 	"trans": "MaxShield",
+ 	 	 	 	"trans": "BouclierMax",
  	 	 	 	"eng": "MaxShield"
  	 	 	}
  	 	},
  	 	"description": {
  	 	 	"name": {
- 	 	 	 	"trans": "Increases your shield capacity",
+ 	 	 	 	"trans": "Augmente la capacité de l'inventaire",
  	 	 	 	"eng": "Increases inventory capacity"
  	 	 	}
  	 	},
  	 	"escape": {
  	 	 	"name": {
- 	 	 	 	"trans": "Escape",
+ 	 	 	 	"trans": "fuir",
  	 	 	 	"eng": "Escape"
  	 	 	}
  	 	},
  	 	"stunChance": {
  	 	 	"name": {
- 	 	 	 	"trans": "Stun chance",
+ 	 	 	 	"trans": "Chance d'étourdir",
  	 	 	 	"eng": "Stun chance"
  	 	 	}
  	 	},
  	 	"evade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Evade",
+ 	 	 	 	"trans": "S'évader",
  	 	 	 	"eng": "Evade"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Chance of you dodging an enemies attack",
+ 	 	 	 	"trans": "Chances d'esquiver une attaque ennemie",
  	 	 	 	"eng": "Chance of you dodging an enemies attack"
  	 	 	}
  	 	},
  	 	"bargain": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bargain",
+ 	 	 	 	"trans": "négocier",
  	 	 	 	"eng": "Bargain"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Influences the price when buying and selling from npc's or stores.",
+ 	 	 	 	"trans": "Influence le prix quand vous achetez et vendez à un pnj ou une boutique",
  	 	 	 	"eng": "Influences the price when buying and selling from npc's or stores."
  	 	 	}
  	 	},
  	 	"pocket": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pocket",
+ 	 	 	 	"trans": "Poche",
  	 	 	 	"eng": "Pocket"
  	 	 	}
  	 	},
  	 	"damageMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Damage multiplier",
+ 	 	 	 	"trans": "Multiplicateur de dégâts",
  	 	 	 	"eng": "Damage multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increases damage by percentage",
+ 	 	 	 	"trans": "Augmente les dégâts par pourcentage",
  	 	 	 	"eng": "Increases damage by percentage"
  	 	 	}
  	 	},
  	 	"defenceMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Defence multiplier",
+ 	 	 	 	"trans": "Multiplicateur de défense",
  	 	 	 	"eng": "Defence multiplier"
  	 	 	},
  	 	 	"description": {
