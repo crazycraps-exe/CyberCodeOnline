@@ -1240,31 +1240,31 @@
  	 	},
  	 	"timeReduction": {
  	 	 	"name": {
- 	 	 	 	"trans": "Time reduction",
+ 	 	 	 	"trans": "Réduction du temps",
  	 	 	 	"eng": "Time reduction"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Reduce AFK task required time",
+ 	 	 	 	"trans": "Réduit le temps requis pour faire une tâche AFK",
  	 	 	 	"eng": "Reduce AFK task required time"
  	 	 	}
  	 	},
  	 	"expMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Exp multiplier",
+ 	 	 	 	"trans": "Multiplicateur d'exp",
  	 	 	 	"eng": "Exp multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increase EXP you receive",
+ 	 	 	 	"trans": "Augmente l'exp reçu",
  	 	 	 	"eng": "Increase EXP you receive"
  	 	 	}
  	 	},
  	 	"btcMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "BTC multiplier",
+ 	 	 	 	"trans": "Multiplicateur de BTC",
  	 	 	 	"eng": "BTC multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increase Bitcoins you receive",
+ 	 	 	 	"trans": "Augmente la quantité de Bifcoin reçu",
  	 	 	 	"eng": "Increase Bitcoins you receive"
  	 	 	}
  	 	}
