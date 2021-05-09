@@ -363,31 +363,31 @@
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "upper armor",
+ 	 	 	 	"trans": "Armure supérieure",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "lower armor",
+ 	 	 	 	"trans": "Armure inférieure",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
  	 	"boots": {
  	 	 	"name": {
- 	 	 	 	"trans": "boots",
+ 	 	 	 	"trans": "Bottes",
  	 	 	 	"eng": "boots"
  	 	 	}
  	 	},
  	 	"upgradeModule": {
  	 	 	"name": {
- 	 	 	 	"trans": "upgrade module",
+ 	 	 	 	"trans": "Module d'amélioration",
  	 	 	 	"eng": "upgrade module"
  	 	 	}
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away",
+ 	 	 	 	"trans": "Kit de soin",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
@@ -397,17 +397,17 @@
  	 	},
  	 	"healing2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Nano Repair Bot",
+ 	 	 	 	"trans": "Nano-robot de réparation dégradé",
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Old nano repair bot, usually used to repair small tech devices",
+ 	 	 	 	"trans": "Vieux robot de nano-réparwtion, habituellement utilié pour pour les petites réparations de technologies",
  	 	 	 	"eng": "Old nano repair bot, usually used to repair small tech devices"
  	 	 	}
  	 	},
  	 	"healing3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Nano Medic Bot",
+ 	 	 	 	"trans": "Nano-robot médical dégradé",
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -417,7 +417,7 @@
  	 	},
  	 	"healing4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Medic Bot",
+ 	 	 	 	"trans": "Nano-robot médical",
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -427,7 +427,7 @@
  	 	},
  	 	"healing5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military Nano Medic Bot",
+ 	 	 	 	"trans": "Nano-robot médical militaire",
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -437,7 +437,7 @@
  	 	},
  	 	"healing6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Advanced Nano Medic Bot",
+ 	 	 	 	"trans": "Nano-robot médical avancé",
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -447,7 +447,7 @@
  	 	},
  	 	"healing7": {
  	 	 	"name": {
- 	 	 	 	"trans": "High Quality Nano Medic Bot",
+ 	 	 	 	"trans": "Nano-robot médical de haute qualité",
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -457,7 +457,7 @@
  	 	},
  	 	"healing8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rare Nano Medic Bot",
+ 	 	 	 	"trans": "Nano-robot médical rare",
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -467,7 +467,7 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away Spray",
+ 	 	 	 	"trans": "Spray de soin",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
@@ -477,7 +477,7 @@
  	 	},
  	 	"healingArea2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Repair drone",
+ 	 	 	 	"trans": "Drone de réparation dégradé",
  	 	 	 	"eng": "Degraded Repair drone"
  	 	 	},
  	 	 	"description": {
@@ -487,7 +487,7 @@
  	 	},
  	 	"healingArea3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded nano medic drone",
+ 	 	 	 	"trans": "Drone de nano-médecine dégradé",
  	 	 	 	"eng": "Degraded nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -497,7 +497,7 @@
  	 	},
  	 	"healingArea4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano medic drone",
+ 	 	 	 	"trans": "Drone de nano-médecin",
  	 	 	 	"eng": "Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -507,7 +507,7 @@
  	 	},
  	 	"healingArea5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military Nano medic drone",
+ 	 	 	 	"trans": "Drone de nano-médecine militaire",
  	 	 	 	"eng": "Military Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -517,7 +517,7 @@
  	 	},
  	 	"healingArea6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Advance Nano medic drone",
+ 	 	 	 	"trans": "Drone de nano-médecine avancé",
  	 	 	 	"eng": "Advance Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -527,7 +527,7 @@
  	 	},
  	 	"healingArea7": {
  	 	 	"name": {
- 	 	 	 	"trans": "High Quality Nano medic drone",
+ 	 	 	 	"trans": "Drone de nano-médecine de haute qualité",
  	 	 	 	"eng": "High Quality Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -537,7 +537,7 @@
  	 	},
  	 	"healingArea8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rare Nano medic drone",
+ 	 	 	 	"trans": "Drone de nano-médecine rare",
  	 	 	 	"eng": "Rare Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -547,7 +547,7 @@
  	 	},
  	 	"medicalTechParts": {
  	 	 	"name": {
- 	 	 	 	"trans": "Medical Tech Parts",
+ 	 	 	 	"trans": "Morceau de technologie médicale",
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
@@ -557,7 +557,7 @@
  	 	},
  	 	"expMemory": {
  	 	 	"name": {
- 	 	 	 	"trans": "Experience Memory",
+ 	 	 	 	"trans": "ExperienceMemory",
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
@@ -567,7 +567,7 @@
  	 	},
  	 	"hashProcessor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hash Processor",
+ 	 	 	 	"trans": "Processeur de hashing",
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
@@ -789,7 +789,7 @@
  	 	 	"eng": "${segmentDisplayName} Secret Key"
  	 	},
  	 	"unlockVerb": {
- 	 	 	"trans": "brute-force",
+ 	 	 	"trans": "Force brute",
  	 	 	"eng": "brute-force"
  	 	}
  	},
@@ -818,13 +818,13 @@
  	 	"random": {
  	 	 	"clearChallengeDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "dungeon warrior",
+ 	 	 	 	 	"trans": "Guerrier de donjon",
  	 	 	 	 	"eng": "dungeon warrior"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeonCoOp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "dungeon friends",
+ 	 	 	 	 	"trans": "Ami de donjon",
  	 	 	 	 	"eng": "dungeon friends"
  	 	 	 	}
  	 	 	},
@@ -835,27 +835,27 @@
  	 	 	 	}
  	 	 	},
  	 	 	"dealDamage": {
- 	 	 	 	"trans": "Deal Damage",
+ 	 	 	 	"trans": "Infliger des dégâts,
  	 	 	 	"eng": "Deal Damage"
  	 	 	},
  	 	 	"exp": {
- 	 	 	 	"trans": "Gain exp",
+ 	 	 	 	"trans": "Gagner de l'exp",
  	 	 	 	"eng": "Gain exp"
  	 	 	},
  	 	 	"joinDungeon": {
- 	 	 	 	"trans": "Join Dungeon",
+ 	 	 	 	"trans": "Joindre un donjon",
  	 	 	 	"eng": "Join Dungeon"
  	 	 	},
  	 	 	"killEnemy": {
- 	 	 	 	"trans": "Kill enemy",
+ 	 	 	 	"trans": "Tuer des ennemis",
  	 	 	 	"eng": "Kill enemy"
  	 	 	},
  	 	 	"getMoney": {
- 	 	 	 	"trans": "Acquire Bitcoin",
+ 	 	 	 	"trans": "Obtenir des bitcoins",
  	 	 	 	"eng": "Acquire Bitcoin"
  	 	 	},
  	 	 	"print": {
- 	 	 	 	"trans": "Molecular Printing",
+ 	 	 	 	"trans": "Impression moléculaire",
  	 	 	 	"eng": "Molecular Printing"
  	 	 	}
  	 	}
@@ -869,11 +869,11 @@
  	 	},
  	 	"mobileQuestPage": {
  	 	 	"receiveReward": {
- 	 	 	 	"trans": "Click to receive reward",
+ 	 	 	 	"trans": "Cliquez pour recevoir la récompense",
  	 	 	 	"eng": "Click to receive reward"
  	 	 	},
  	 	 	"inProgress": {
- 	 	 	 	"trans": "Request in progress...",
+ 	 	 	 	"trans": "Demande en attente...",
  	 	 	 	"eng": "Request in progress..."
  	 	 	},
  	 	 	"watchAdRefresh": {
