@@ -391,11 +391,11 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away",
+ 	 	 	 	"trans": "Éloigne-Douleur",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vous avez mal au crane ? Utilisez Pain Away™ pour soulager votre douleur !",
+ 	 	 	 	"trans": "Vous avez mal au crane ? Utilisez Éloigne-Douleur™ pour soulager votre douleur !",
  	 	 	 	"eng": "Do you have headache? use Pain Away™ to relief your pain!"
  	 	 	}
  	 	},
@@ -671,7 +671,7 @@
  	 	},
  	 	"techScrap": {
  	 	 	"name": {
- 	 	 	 	"trans": "Tech Scrap",
+ 	 	 	 	"trans": "Technologie recyclée",
  	 	 	 	"eng": "Tech Scrap"
  	 	 	},
  	 	 	"description": {
@@ -681,7 +681,7 @@
  	 	},
  	 	"primaryWeapon": {
  	 	 	"name": {
- 	 	 	 	"trans": "Primary Weapon",
+ 	 	 	 	"trans": "Arme primaire",
  	 	 	 	"eng": "Primary Weapon"
  	 	 	}
  	 	},
@@ -1167,11 +1167,11 @@
  	 	 	 	"eng": "Mute background music"
  	 	 	},
  	 	 	"restartRequired": {
- 	 	 	 	"trans": "App will self restart after save",
+ 	 	 	 	"trans": "L'application redèmarrera aprés la sauvegarde des changements",
  	 	 	 	"eng": "App will self restart after save"
  	 	 	},
  	 	 	"save": {
- 	 	 	 	"trans": "save",
+ 	 	 	 	"trans": "sauvegarder",
  	 	 	 	"eng": "save"
  	 	 	},
  	 	 	"langGithub": {
@@ -1187,7 +1187,7 @@
  	 	},
  	 	"deathScreen": {
  	 	 	"topTitleLeft": {
- 	 	 	 	"trans": "fatal injury",
+ 	 	 	 	"trans": "blessure fatale",
  	 	 	 	"eng": "fatal injury"
  	 	 	},
  	 	 	"topTitleRight": {
@@ -1216,7 +1216,7 @@
  	},
  	"misc": {
  	 	"missing": {
- 	 	 	"trans": "missing",
+ 	 	 	"trans": "manquant",
  	 	 	"eng": "missing"
  	 	},
  	 	"name": {
@@ -1232,7 +1232,7 @@
  	 	 	"eng": "Donate"
  	 	},
  	 	"noSecretKey": {
- 	 	 	"trans": " No secret key",
+ 	 	 	"trans": "Aucune clé secrète",
  	 	 	"eng": " No secret key"
  	 	},
  	 	"globalEffects": {
@@ -1240,7 +1240,7 @@
  	 	 	"eng": "Global Effects"
  	 	},
  	 	"confirm": {
- 	 	 	"trans": "Confirm",
+ 	 	 	"trans": "Confirmer",
  	 	 	"eng": "Confirm"
  	 	},
  	 	"requires": {
@@ -1492,7 +1492,7 @@
  	 	 	 	"verb",
  	 	 	 	"amount"
  	 	 	],
- 	 	 	"trans": "You can ${verb} ${amount} times",
+ 	 	 	"trans": "Vous pouvez ${verb} ${amount} times",
  	 	 	"eng": "You can ${verb} ${amount} times"
  	 	},
  	 	"timeRequiredText": {
@@ -1553,14 +1553,14 @@
  	"modal": {
  	 	"levelUp": {
  	 	 	"title": {
- 	 	 	 	"trans": "LEVEL UP",
+ 	 	 	 	"trans": "NIVEAU SUPÉRIEUR",
  	 	 	 	"eng": "LEVEL UP"
  	 	 	},
  	 	 	"subTitle": {
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Félicitation, vous avez monter de niveau votre ${levelName}!",
+ 	 	 	 	"trans": "Félicitation, vous avez monté de niveau votre ${levelName}!",
  	 	 	 	"eng": "Congratulation, you have leveled up your ${levelName}!"
  	 	 	},
  	 	 	"fromTo": {
