@@ -34,7 +34,7 @@
  	 	},
  	 	"cosmetic": {
  	 	 	"name": {
- 	 	 	 	"trans": "Cosmetique Cybernétique",
+ 	 	 	 	"trans": "Cosmétique Cybernétique",
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
@@ -48,7 +48,7 @@
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Vous pouvez utiliser vos Cache pour imprimer de nouveaux équipements ici",
+ 	 	 	 	"trans": "Vous pouvez utiliser vos Caches pour imprimer de nouveaux équipements ici",
  	 	 	 	"eng": "You can use your Cache to print new equipment here"
  	 	 	}
  	 	},
@@ -122,7 +122,7 @@
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "talent de prospection",
+ 	 	 	 	"trans": "compétence de fouillage",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
@@ -184,7 +184,7 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Zone de Taff]\r\n        De nombreuses boutiques et Business, un endroit parfait pour essayer vos talents.",
+ 	 	 	 	"trans": "[Zone de Taff]\r\n        De nombreuses boutiques et Business, un endroit parfait pour tester vos talents.",
  	 	 	 	"eng": "[Job Hub]\r\n        Many shops and Businesses, a perfect location to try out your skills."
  	 	 	},
  	 	 	"toMainHub": {
@@ -267,7 +267,7 @@
  	 	"segment": {
  	 	 	"locked": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Veuillez rassembler les 3 Fragments de Clé trouvées dans les donjons des 3 zones de la station précédante, \r\n                    puis allez au [Terminal] au Centre-ville du [Hub] pour brute-force (Fabriquer) la clé débloquant cette zone",
+ 	 	 	 	 	"trans": "Veuillez rassembler les 3 Fragments de Clé trouvés dans les donjons des 3 zones de la station précédante, \r\n                    puis allez au [Terminal] au Centre-ville du [Hub] pour brute-force (Fabriquer) la clé débloquant cette zone",
  	 	 	 	 	"eng": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area"
  	 	 	 	}
  	 	 	},
@@ -395,7 +395,7 @@
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Vous avez mal au crane ? Utilisez Pain Away™ pour soulager votre douleur !",
+ 	 	 	 	"trans": "Vous avez mal au crâne ? Utilisez Pain Away™ pour soulager votre douleur !",
  	 	 	 	"eng": "Do you have headache? use Pain Away™ to relief your pain!"
  	 	 	}
  	 	},
@@ -471,7 +471,7 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Spray Pain Away",
+ 	 	 	 	"trans": "Pain Away en spray",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
@@ -555,7 +555,7 @@
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Morceaux et pièces faisant partie de techno médical, permettant de fabriquer des objets de soin... si vous comprenez comment",
+ 	 	 	 	"trans": "Morceaux et pièces faisant partie de techno médicale, permettant de fabriquer des objets de soin... si vous comprenez comment",
  	 	 	 	"eng": "Bits and pieces of used medical tech, this can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
@@ -565,7 +565,7 @@
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "bloc mémoire contenant les souvenirs de quelqu'un, en l'utilisant vous pouvez en tirer de l'expérience",
+ 	 	 	 	"trans": "bloc de mémoire contenant les souvenirs de quelqu'un, en l'utilisant vous pouvez en tirer de l'expérience",
  	 	 	 	"eng": "Memory bank contains someone's memory, if used you may gain experience from this"
  	 	 	}
  	 	},
@@ -621,7 +621,7 @@
  	 	},
  	 	"aiCore": {
  	 	 	"name": {
- 	 	 	 	"trans": "AI Core",
+ 	 	 	 	"trans": "Noyau d'IA",
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
@@ -651,7 +651,7 @@
  	 	},
  	 	"ammoTech1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ammunition tech parts",
+ 	 	 	 	"trans": "Technologie de munitions",
  	 	 	 	"eng": "Ammunition tech parts"
  	 	 	},
  	 	 	"description": {
@@ -693,7 +693,7 @@
  	 	},
  	 	"tertiary": {
  	 	 	"name": {
- 	 	 	 	"trans": "Arme de Destruction",
+ 	 	 	 	"trans": "Arme Destructive",
  	 	 	 	"eng": "Destructive Weapon"
  	 	 	}
  	 	},
@@ -1073,7 +1073,7 @@
  	 	 	 	 	"eng": "Invite to Gang"
  	 	 	 	},
  	 	 	 	"addToFriend": {
- 	 	 	 	 	"trans": "ajouter a la liste d'Ami",
+ 	 	 	 	 	"trans": "ajouter à la liste d'Ami",
  	 	 	 	 	"eng": "add to Friend List"
  	 	 	 	},
  	 	 	 	"removeFromFriend": {
@@ -1096,11 +1096,11 @@
  	 	},
  	 	"market": {
  	 	 	"lookAround": {
- 	 	 	 	"trans": "Chiner",
+ 	 	 	 	"trans": "Regarder aux alentours",
  	 	 	 	"eng": "Look around"
  	 	 	},
  	 	 	"myStall": {
- 	 	 	 	"trans": "Mon étale",
+ 	 	 	 	"trans": "Mon étal",
  	 	 	 	"eng": "My Stall"
  	 	 	},
  	 	 	"increaseSlot": {
@@ -1209,7 +1209,7 @@
  	 	},
  	 	"setBio": {
  	 	 	"title": {
- 	 	 	 	"trans": "Entrer votre bio",
+ 	 	 	 	"trans": "Entrez votre bio",
  	 	 	 	"eng": "Enter your bio"
  	 	 	}
  	 	}
@@ -1285,7 +1285,7 @@
  	 	 	 	"eng": "Armor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Diminue les dégats reçu des ennemis",
+ 	 	 	 	"trans": "Diminue les dégats reçus des ennemis",
  	 	 	 	"eng": "Decrease damage taken from enemy"
  	 	 	}
  	 	},
@@ -1295,7 +1295,7 @@
  	 	 	 	"eng": "Health regen"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Régénere une partie de la vie après la fin du combat",
+ 	 	 	 	"trans": "Régénère une partie de la vie après la fin du combat",
  	 	 	 	"eng": "Amount of health regenerated after end of combat"
  	 	 	}
  	 	},
@@ -1447,7 +1447,7 @@
  	 	},
  	 	"timeReduction": {
  	 	 	"name": {
- 	 	 	 	"trans": "Reduction du temps",
+ 	 	 	 	"trans": "Réduction du temps",
  	 	 	 	"eng": "Time reduction"
  	 	 	},
  	 	 	"description": {
@@ -1542,7 +1542,7 @@
  	 	 	"vars": [
  	 	 	 	"total"
  	 	 	],
- 	 	 	"trans": "Si ils sont tous vendu, vous recevrez ${total} BitCoins",
+ 	 	 	"trans": "Si ils sont tous vendus, vous recevrez ${total} BitCoins",
  	 	 	"eng": "If all of them are sold, you will earn ${total} BitCoins"
  	 	},
  	 	"sellAmountModalTitle": {
@@ -1560,7 +1560,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Félicitation, vous avez monter de niveau votre ${levelName}!",
+ 	 	 	 	"trans": "Félicitation, vous avez monté de niveau votre ${levelName}!",
  	 	 	 	"eng": "Congratulation, you have leveled up your ${levelName}!"
  	 	 	},
  	 	 	"fromTo": {
